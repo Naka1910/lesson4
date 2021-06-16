@@ -1,0 +1,129 @@
+/* start main */
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+}
+.logo{
+    display: inline-block;
+    margin-right: 50px;
+    vertical-align: middle;
+}
+.nav-list{
+    display: inline-block;
+    margin-right: 20px;
+}
+.class-list{
+    color: #3D58A6;
+}
+.active{
+    color: #EE4036;
+}
+.container-block{
+    width: 1170px;
+    margin: 20px auto;
+}
+.left-block{
+    width: 570px;
+    background-color: #F2F2F2;
+    display: inline-block;
+    padding: 11px 15px 24px 20px;
+    margin-right: 20px;
+   
+}
+.right-block{
+    width: 570px;
+    background-color:#F2F2F2;
+    display: inline-block;
+    padding: 11px 15px 24px 20px;
+    
+}
+.text-class{
+    display: inline-block;
+    width: 355px;
+    vertical-align:middle;
+    
+}
+.image-class{
+    vertical-align: middle;
+    margin-right: 60px;
+    margin-top: 21px;
+}
+.title-class{
+    color: #3D58A6;
+}
+.title-class1{
+    margin-bottom: 30px;
+}
+/* start news*/
+.date{
+    width: 56px;
+    height: 56px;
+    background-color: #3D58A6;
+    padding: 7px 10px;
+    font-size: 37px;
+    color: #FFFFFF;
+    margin-top: 39.4px;
+    margin-bottom: 2px;
+}
+.span-class{
+    color: #3D58A6;
+    font-size: 22px;
+    margin-bottom: 17.5px;
+}
+.title-class2{
+    margin: 17.5px 0px;
+}
+.image-1{
+    vertical-align: top;
+    margin-right: 39px;
+}
+.article-class{
+    display: inline-block;
+    width: 929px;
+    vertical-align: top;
+}
+.text-1{
+    margin-bottom: 21px;
+}
+
+
+/* start contact */
+.section-class{
+    background-color: #E6E6E6;
+    margin-top: 24.4px;
+}
+.conteiner-div{
+    width: 1177px;
+    margin: 0 auto;
+
+}
+.left-block1{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 99.2px;
+    margin-bottom: 61px;
+}
+.right-block2{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 95.5px;
+}
+.span-1{
+    color: #808080;
+}
+.map-class{
+    width: 448px;
+    height: 464px;
+}
+.contact-a{
+    color: black;
+}
+/* Footer styles */
+.divider{
+    width: 1px;
+    height: 27px;
+    background-color:#3D58A6 ;
+    display: inline-block;
+    margin-left: 36px;
+    margin-right: 32px;
+}
