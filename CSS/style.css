@@ -89,8 +89,15 @@
 }
 .text-1{
     margin-bottom: 21px;
+    font-family: "ALKBasri-Light", sans-serif;
+    font-style: italic;
 }
-
+.text-2{
+    font-family: 'BPG Mikheil Stefane';
+    font-weight: bold;
+    line-height: 20px;
+    text-indent: 25px;
+}
 
 /* start contact */
 .section-class{
@@ -105,13 +112,14 @@
 .left-block1{
     display: inline-block;
     vertical-align: top;
-    margin-right: 99.2px;
-    margin-bottom: 61px;
+    margin-right: 63.7px;
+    margin-top: 51.5px;
+    
 }
 .right-block2{
     display: inline-block;
     vertical-align: top;
-    margin-right: 95.5px;
+    margin-top: 39px;
 }
 .span-1{
     color: #808080;
